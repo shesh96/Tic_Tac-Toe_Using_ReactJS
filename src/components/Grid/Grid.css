@@ -1,0 +1,22 @@
+.grid{
+  width: 400px;
+  height: 400px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  border: 2px solid rgb(179, 147, 163);
+  padding: 1%;
+  
+    
+}
+
+.turn-highlight{
+  color: rgb(246, 245, 247);
+  
+}
+.reset{
+  background-color: rgb(138, 135, 95);
+  cursor: pointer;
+  
+}

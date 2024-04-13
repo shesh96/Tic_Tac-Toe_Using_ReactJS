@@ -1,0 +1,23 @@
+.main-body {
+  font-size: 2em;
+  color: rgb(222, 29, 29);
+  position: fixed;
+  
+  top: 45%;
+  left: 74.2%;
+  /* right: -20%; */
+  transform: translate(-50%, -50%);
+  max-width: 60%; /* Adjust the maximum width as needed */
+  padding: 20px; /* Add padding as needed */
+  border: 2px solid rgb(72, 69, 69); 
+  background-color: #423f46; 
+  
+}
+.blink {
+  visibility: hidden;
+}
+.time{
+  color: rgb(119, 255, 0);
+}
+
+  
